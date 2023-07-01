@@ -1,8 +1,7 @@
 # my-simple-webapp
 my-simple-webapp is a web application build using python - flask framework. 
 
-# installing python on your local ubuntu machine
-first check if the apt-get command line tool is updated or else run the below command
+# installing python on your local ubuntu machine first check if the apt-get command line tool is updated or else run the below command
 apt-get update
 
 # now install python package on local ubuntu machine
