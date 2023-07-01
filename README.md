@@ -8,7 +8,7 @@ apt-get update
 apt-get install -y python
 
 # now install pip package on local ubuntu machine
-apt-get install -y python-pip or apt-get install -y pip
+apt-get install -y python-pip or   apt-get install -y pip
 
 # create a local directory named in your local ubuntu machine and change the current working directory to new created directory
 root@username:/# mkdir my-simple-webapp  
